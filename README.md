@@ -17,7 +17,7 @@ Perris, California · Remote worldwide · English / Español
 
 &nbsp;
 
-[![Live site](https://img.shields.io/badge/▶_LIVE_SITE-vextrixweb.vercel.app-777b61?style=for-the-badge)](https://vextrixweb.vercel.app)
+[![Live site](https://img.shields.io/badge/▶_LIVE_SITE-https://vextrixstudio.vercel.app/-777b61?style=for-the-badge)](https://vextrixstudio.vercel.app/)
 
 **English** · [Español](./README.es.md)
 
@@ -182,7 +182,7 @@ The visual language is quiet on purpose: neutral tones, generous whitespace and 
 
 ## Deployment
 
-The site is deployed on **Vercel** at [vextrixweb.vercel.app](https://vextrixweb.vercel.app).
+The site is deployed on **Vercel** at [https://vextrixstudio.vercel.app/](https://vextrixstudio.vercel.app/).
 
 To deploy your own copy: push the repository to GitHub and import it at [vercel.com/new](https://vercel.com/new), Vercel detects Next.js automatically. Or use the CLI:
 
@@ -224,5 +224,5 @@ vercel
 <div align="center">
   <i>Designed with intent. Built with care.</i><br /><br />
   <b>Vextrix Studio</b> · Thoughtfully built in Perris, California.<br /><br />
-  <a href="https://vextrixweb.vercel.app">vextrixweb.vercel.app</a> · <a href="mailto:vextrixstudio@outlook.com">vextrixstudio@outlook.com</a>
+  <a href="https://https://vextrixstudio.vercel.app/">vextrixstudio.vercel.app</a> · <a href="mailto:vextrixstudio@outlook.com">vextrixstudio@outlook.com</a>
 </div>
